@@ -1,2 +1,2 @@
 # Practica_java
-Taller de Java
+Taller de Java OOP
